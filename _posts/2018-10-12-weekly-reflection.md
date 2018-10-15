@@ -4,4 +4,4 @@ title: "Week 4 Post"
 date: 2018-10-12
 ---
 
-This week 
+This week we learned 
